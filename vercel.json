@@ -2,23 +2,23 @@
     "routes": [
         {
             "src": "/report",
-            "dest": "https://tz.wilxx.com:/report"
+            "dest": "https://data.wilxx.com:/report"
         },
         {
             "src": "/json/stats.json",
-            "dest": "https://tz.wilxx.com/json/stats.json"
+            "dest": "https://data.wilxx.com/json/stats.json"
         },
         {
             "src": "/detail",
-            "dest": "https://tz.wilxx.com/detail"
+            "dest": "https://data.wilxx.com/detail"
         },
         {
             "src": "/map",
-            "dest": "https://tz.wilxx.com/map"
+            "dest": "https://data.wilxx.com/map"
         },
         {
             "src": "/i",
-            "dest": "https://tz.wilxx.com/i"
+            "dest": "https://data.wilxx.com/i"
         }
     ]
 }
